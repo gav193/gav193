@@ -1,6 +1,26 @@
 ## Hi there 👋
 
-# Test.
+# I'm Pierre Gavin Tan
+# A 3rd Year Electrical Engineering Undergraduate Student at ITB
+
+# Programming Languages :
+  - C
+  - Python
+  - ASM
+  - C++
+  - VHDL
+
+# Skillset :
+  - IoT with Microcontrollers
+  - Circuit Design and Analysis
+  - Digital Systems
+  - Control Systems
+
+# Communication Language : 
+  - English
+  - Indonesian
+  - Mandarin (basic)
+
 <!--
 **gav193/gav193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
