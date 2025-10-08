@@ -1,7 +1,7 @@
 ## Hi there!
 
 # I'm Pierre Gavin Tan  
-### 3rd Year Electrical Engineering Undergraduate at ITB  
+### 4th Year Electrical Engineering Undergraduate at ITB  
 
 🚀 Passionate about embedded systems, IoT, and circuit design.  
 🔍 Exploring control systems, digital systems, and automation.  
