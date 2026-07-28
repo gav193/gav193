@@ -17,9 +17,4 @@
 - Digital Systems  
 - Control Systems  
 
-### 🌎 Languages:  
-- English (Fluent)  
-- Indonesian (Fluent)  
-- Mandarin (Basic)  
-
 ---  
